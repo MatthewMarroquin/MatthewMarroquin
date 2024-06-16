@@ -272,11 +272,11 @@
 
   </g>
 
-  <!-- From California... -->
+  <!-- Where I'm from -->
   <g transform="translate(10, 48)" class="msg-2">
     <rect width="500" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I live in Los Angeles, California. The weather here is great!</text>
-    <text x="15" y="50">Its always sunny so I'm always out hiking or running<tspan class="emoji">☀️🏃‍♂️💨</tspan></text>
+    <text x="15" y="50">Its always sunny so im usually out hiking or running<tspan class="emoji">☀️🏃‍♂️💨</tspan></text>
   </g>
 
   <!-- typing 3 -->
