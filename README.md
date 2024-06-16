@@ -5,9 +5,10 @@
 
 ## `About Me`
 
-<img align='right' src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif?cid=ecf05e4746kty9cfcvodb6san3irjm3lpyiord1esjnumvdh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="290">
+<img align='right' src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif?cid=ecf05e4746kty9cfcvodb6san3irjm3lpyiord1esjnumvdh&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250">
 
  I am a Software Engineer from Los Angeles, California 🌃🌃
+ 
 <ul>
  <li>
   <p>I'm currently working at <a href="https://www.fandango.com"> <img src="https://1000logos.net/wp-content/uploads/2021/12/Fandango-Logo-768x432.png" width="70"></a> helping everyone get their movie tickets on time!!🎟️📽️🎬🎞️🍿🥤 </p>
