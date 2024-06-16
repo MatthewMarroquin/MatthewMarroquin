@@ -4,7 +4,10 @@
 
 
 ## About Me
-
+<!--
+If you're reading this that means you like how my README.md is formatted!! 
+Why don't you give my github a follow and send me a connection request on LinkedIn 😁!!!! 
+-->
 ![](https://raw.githubusercontent.com/MatthewMarroquin/MatthewMarroquin/main/Welcome.svg)
 
 
@@ -33,9 +36,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-3b3b3b?style=flat&logo=postgresql)
 
 
-<!--
-If you're reading this that means you like how my README.md is formatted!! Why don't you give my github a follow and send me a connection request on LinkedIn :)!!!!
 
+
+<!--
 commenting this out incase I decide to switch from shields.io to icons8.com.
 <h2>My Skills</h2>
   <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform
