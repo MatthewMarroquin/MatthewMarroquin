@@ -10,10 +10,10 @@
  I am a Software Engineer from Los Angeles, California 🌃🌃
 <ul>
  <li>
-  <p>I am currently working at 📽️🎬🎞️🍿 <a href="https://www.fandango.com"> <img src="https://1000logos.net/wp-content/uploads/2021/12/Fandango-Logo-768x432.png" width="70"></a> </p>
+  <p>I'm currently working at <a href="https://www.fandango.com"> <img src="https://1000logos.net/wp-content/uploads/2021/12/Fandango-Logo-768x432.png" width="70"></a> helping to make sure that everyone gets their movie tickets on time!!🎟️📽️🎬🎞️🍿 </p>
  </li>
  <li>
-  <p>I enjoy hiking and consider myself a part time hiker 🏔️🏔️🏔️ <img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="70"></p>
+  <p>In my free time you can find me working on a personal project, hiking, or running 👨‍💻 🏃‍♂️💨 🏔 <img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="70"></p>
  </li>
 </ul>
 
@@ -23,7 +23,6 @@
 
 
 ## 📚 Languages and Frameworks 📚
-
 ![C#](https://img.shields.io/badge/-C%23-3b3b3b?style=flat&logo=csharp)
 ![.Net](https://img.shields.io/badge/-.Net-3b3b3b?style=flat&logo=dotnet)
 ![Python](https://img.shields.io/badge/-Python-3b3b3b?style=flat&logo=python)
@@ -46,6 +45,9 @@
 
 
 <!--
+If you're reading this that means you like how my README.md is formatted!! Why don't you give my github a follow and send me a connection request on LinkedIn :)!!!!
+
+commenting this out incase I decide to switch from shields.io to icons8.com.
 <h2>My Skills</h2>
   <a href="https://www.terraform.io/"><img src="https://img.icons8.com/color/24/000000/terraform.png"/></a> Terraform
   <a href="https://cloud.google.com/"><img src="https://img.icons8.com/color/24/000000/google-cloud-platform.png"/></a> Google Cloud Platform (GCP)
