@@ -13,7 +13,7 @@
   <p>I'm currently working at <a href="https://www.fandango.com"> <img src="https://1000logos.net/wp-content/uploads/2021/12/Fandango-Logo-768x432.png" width="70"></a> helping everyone get their movie tickets on time!!🎟️📽️🎬🎞️🍿🥤 </p>
  </li>
  <li>
-  <p>In my free time you can find me working on one of my personal projects, hiking, or running 👨‍💻 🏃‍♂️💨 🏔 <img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"><img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"><img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"></p>
+  <p>In my free time you can find me working on one of my personal projects, hiking,   or running 👨‍💻 🏃‍♂️💨 🏔 <img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"><img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"><img src="https://cdn.vectorstock.com/i/500p/49/03/hiking-icon-vector-38894903.avif" width="50"></p>
  </li>
 </ul>
 
