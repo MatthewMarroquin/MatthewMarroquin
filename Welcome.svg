@@ -37,7 +37,7 @@
 
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 1.5s 5s;
+      animation: wait 5s, fade-in-out 3s 5s;
     }
 
     .msg-3 {
