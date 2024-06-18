@@ -37,38 +37,38 @@
 
     .typing-3 {
       opacity: 0;
-      animation: wait 5s, fade-in-out 3s 5s;
+      animation: wait 5s, fade-in-out 1.5s 5s;
     }
 
     .msg-3 {
-      animation: wait 5.8s, msg-3 0.2s 5.8s;
+      animation: wait 6.7s, msg-3 0.2s 6.7s;
     }
 
     .typing-4 {
       opacity: 0;
-      animation: wait 8.8s, fade-in-out 1.5s 8.8s;
+      animation: wait 7.5s, fade-in-out 1.5s 7.5s;
     }
 
     .msg-4 {
-      animation: wait 10.5s, msg-4 0.2s 10.5s;
+      animation: wait 9.2s, msg-4 0.2s 9.2s;
     }
 
     .typing-5 {
       opacity: 0;
-      animation: wait 11.3s, fade-in-out 1.5s 11.3s;
+      animation: wait 10s, fade-in-out 1.5s 10s;
     }
 
     .msg-5 {
-      animation: wait 13.0s, msg-5 0.2s 13.0s;
+      animation: wait 11.7s, msg-5 0.2s 11.7s;
     }
 
     .typing-6 {
       opacity: 0;
-      animation: wait 13.8s, fade-in-out 1.5s 13.8s;
+      animation: wait 12.5s, fade-in-out 1.5s 12.5s;
     }
 
     .msg-6 {
-      animation: wait 15.5s, msg-6 0.2s 15.5s;
+      animation: wait 14.2s, msg-6 0.2s 14.2s;
     }
 
     @keyframes wait {
@@ -286,13 +286,13 @@
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
 
     <circle cx="27.4778" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" repeatCount="indefinite" />
     </circle>
     <circle cx="42.8411" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="0.2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.2s" repeatCount="indefinite" />
     </circle>
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
-      <animate attributeName="opacity" values="0.5;1;0.5" dur="2.5s" begin="0.4s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
 
   </g>
