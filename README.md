@@ -15,13 +15,13 @@ Why don't you give my github a follow and send me a connection request on Linked
 
 
 ## 📚 Languages and Frameworks 📚
-![C#](https://img.shields.io/badge/-C%23-3b3b3b?style=flat&logo=csharp&logoColor=purple)
+![C#](https://img.shields.io/badge/-C%23-3b3b3b?style=flat&logo=c#&logoColor=purple)
 ![.Net](https://img.shields.io/badge/-.Net-3b3b3b?style=flat&logo=dotnet&logoColor=blue)
 ![Python](https://img.shields.io/badge/-Python-3b3b3b?style=flat&logo=python)
 ![Flask](https://img.shields.io/badge/-Flask-3b3b3b?style=flat&logo=flask)
 ![Pip](https://img.shields.io/badge/-Pip-3b3b3b?style=flat&logo=pipx)
 ![Node.js](https://img.shields.io/badge/-Node.js-3b3b3b?style=flat&logo=nodedotjs)
-![Npm](https://img.shields.io/badge/-Npm-3b3b3b?style=flat&logo=npm)
+![Npm](https://img.shields.io/badge/-Npm-3b3b3b?style=flat&logo=npm&logoColor=red)
 ![Nuget](https://img.shields.io/badge/-Nuget-3b3b3b?style=flat&logo=nuget&logoColor=blue)
 
 
