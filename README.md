@@ -1,5 +1,5 @@
  # Hi, I'm Matthew Marroquin!
-[![Linkedin: Matthew Marroquin](https://custom-icon-badges.demolab.com/badge/MatthewMarroquin-blue?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/mattmarroquin/)
+[![Linkedin: Matthew Marroquin](https://img.shields.io/badge/-MatthewMarroquin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mattmarroquin/)](https://www.linkedin.com/in/mattmarroquin/)
 [![GitHub Matthew Marroquin](https://custom-icon-badges.demolab.com/badge/MatthewMarroquin-blue?logo=linkedin-white&logoColor=fff)
 
 
